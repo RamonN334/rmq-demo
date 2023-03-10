@@ -1,0 +1,1 @@
+# Simple RabbitMQ demo with one publisher and subscriber
